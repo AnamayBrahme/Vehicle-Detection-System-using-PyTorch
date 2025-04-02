@@ -23,6 +23,7 @@ pip install torch torchvision numpy matplotlib opencv-python pillow
 
 ## Dataset
 The dataset used in this project is structured in a JSON format with the following keys:
+Dataset - https://www.kaggle.com/datasets/pkdarabi/vehicle-detection-image-dataset/data
 
 - `images`: Metadata for each image (ID, filename, dimensions).
 - `annotations`: Bounding box information for each object in the images.
