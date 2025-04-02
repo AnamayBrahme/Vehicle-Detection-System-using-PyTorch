@@ -44,8 +44,8 @@ Dataset - https://www.kaggle.com/datasets/pkdarabi/vehicle-detection-image-datas
 Clone the repository:
 
 ```bash
-git clone https://github.com/AnamayBrahme/vehicle-detection.git
-cd vehicle-detection
+git clone https://github.com/AnamayBrahme/Vehicle-Detection-System-using-PyTorch.git
+cd Vehicle-Detection-System-using-PyTorch
 ```
 
 Update the paths in the code to point to your dataset.
@@ -53,7 +53,7 @@ Update the paths in the code to point to your dataset.
 Run the training script:
 
 ```bash
-python train.py
+python Vehicle_Detection_Pytorch.ipynb
 ```
 
 ## Main Processes and Components
@@ -92,7 +92,7 @@ This project demonstrates the application of deep learning techniques for vehicl
 After training, the model can be evaluated on the test dataset. The evaluation includes calculating metrics such as Intersection over Union (IoU) and visualizing the predictions.
 
 ## Visualization
-The project includes functions to visualize the images along with their predicted bounding boxes and class labels. This helps in understanding the model's performance visually.
+The project includes functions to visualize the images along with their predicted bounding boxes and class labels. This helps in understanding the model's performance visually. 
 
 ## Results
 The model's performance can be assessed through various metrics and visualizations. The results can be plotted using libraries like Matplotlib and Plotly.
