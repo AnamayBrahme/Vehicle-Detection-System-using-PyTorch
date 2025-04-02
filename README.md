@@ -44,7 +44,7 @@ Dataset - https://www.kaggle.com/datasets/pkdarabi/vehicle-detection-image-datas
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/vehicle-detection.git
+git clone https://github.com/AnamayBrahme/vehicle-detection.git
 cd vehicle-detection
 ```
 
