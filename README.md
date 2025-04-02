@@ -97,6 +97,3 @@ The project includes functions to visualize the images along with their predicte
 ## Results
 The model's performance can be assessed through various metrics and visualizations. The results can be plotted using libraries like Matplotlib and Plotly.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
